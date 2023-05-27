@@ -1,0 +1,73 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f5f5f5;
+    padding: 20px;
+  }
+  
+  h1 {
+    text-align: center;
+    color: #333333;
+  }
+  
+  label {
+    font-weight: bold;
+  }
+  
+  input[type="text"],
+  select {
+    margin-bottom: 10px;
+    width: 100%;
+    padding: 8px;
+  }
+  
+  table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+    background-color: #fff;
+    box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.1);
+  }
+  
+  th,
+  td {
+    padding: 10px;
+    text-align: left;
+  }
+  
+  thead {
+    background-color: #333;
+    color: #fff;
+  }
+  
+  tbody tr:nth-child(even) {
+    background-color: #f9f9f9;
+  }
+  
+  /* Additional Styles */
+  
+  #search {
+    border: 1px solid #ccc;
+    border-radius: 4px;
+  }
+  
+  #designation,
+  #skills {
+    border: 1px solid #ccc;
+    border-radius: 4px;
+  }
+  
+  #employeesTable {
+    font-size: 14px;
+  }
+  
+  #employeesTable th,
+  #employeesTable td {
+    border-bottom: 1px solid #ddd;
+  }
+  
+  #employeesTable th {
+    text-transform: uppercase;
+    font-weight: bold;
+  }
+  
+  
